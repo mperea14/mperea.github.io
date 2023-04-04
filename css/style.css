@@ -1,0 +1,235 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:white;
+opacity: 1.0;
+background-image: linear-gradient(to right, #FFFFFF, #CBCBCB);
+
+	
+
+}
+
+nav{ text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 30px;
+	padding-bottom: 30px;
+	border-spacing: 50px;
+	text-decoration: none;
+	text-decoratiosn-color:#232323;
+	word-spacing: 70px;
+	
+}
+nav a:hover{
+	background-color:#CDCDCD;
+text-decoration:underline;
+	padding: 4px;
+
+}
+nav a:active{text-decoration: underline;
+	background-color:#848484;
+}
+
+nav a:link{
+	text-decoration: none;
+	color:#232323;
+	
+	
+}
+nav a:visited{
+	color:#6E6E6E;
+	
+}
+h1{text-align: center;
+font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-style: normal;
+	font-size: 50px;
+	letter-spacing: 4px;
+	}
+
+.indexparagraphs { float: right;
+	width: 800px;
+	padding-right: 30px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 22px;
+	letter-spacing: 1.5px;
+	line-height: 30px;
+	
+	
+}	
+h2 {box-shadow: rgb(136,136,136) 9px 10px 10px 0px;
+	border-bottom-style:inset;
+	border-right-style:inset;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-color:#CBCBCB;
+	border-right-color: #CBCBCB;
+}
+	
+
+.headshot {margin-left: 40px;
+align-content: center;
+	border-radius: 3%;
+	border-style: solid;
+	box-shadow: rgb(136,136,136)-10px 10px 10px 0px;
+	margin-top: 15px;
+	
+}	
+
+
+.wisco {width: 300px;
+	float: left;
+	margin-left: 90px;
+	margin-right: 30px;
+	margin-top: 90px;
+	border-style: solid;
+	box-shadow: rgb(136,136,136)-10px 10px 10px 0px;
+}
+.culver {width: 300px;
+float: left;
+	margin-left: 90px;
+	margin-right: 30px;
+	margin-top: 280px;
+	margin-bottom: 100px;
+	border-style: solid;
+	box-shadow: rgb(136,136,136)-10px 10px 10px 0px;
+	
+
+}
+
+.hockey1 {
+	width: 300px;
+	float: left;
+	margin-left: 60px;
+	border-radius: 3%;
+	border-style: solid;
+	box-shadow: rgb(136,136,136)-10px 10px 10px 0px;
+	margin-right: 50px;
+	margin-bottom: 200px;
+	margin-top: 50px
+	
+}
+.hockey2 {align-content: center;
+width: 300px;
+	border-radius: 3%;
+	border-style: solid;
+	box-shadow: rgb(136,136,136)-10px 10px 10px 0px;
+	margin-top: 50px;
+	
+}
+
+.education {
+	float: right;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	width: 820px;
+	margin-right: 40px;
+	margin-bottom: 100px;
+	
+}
+h3 {font-size: 30px;
+	text-decoration: underline;
+}
+h4 {font-size: 26px;
+}
+h5 {font-size: 26px;
+}
+h6 {font-size: 30px;
+	margin-bottom: 12px;
+	margin-top: 15px;
+	text-decoration: underline;
+}
+h7 {font-size: 30px;
+	text-decoration: underline;
+	margin-left: 150px;
+	
+}
+
+
+.activities {text-indent: 10px;
+}
+.coursework1 {margin-left: 10px;
+}
+.coursework2 {margin-left: 10px;
+}
+.coursework3 {margin-left: 10px;
+}
+.finance {font-size: 20px}
+.risk{font-size: 20px}
+.digital{font-size: 20px}
+.highschool{font-size:20px}
+
+
+
+.hockeyleft {float: left;
+width:850px;
+margin-left: 30px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size:20px;
+	line-height: 30px;
+	
+	
+}
+	
+.hockeyright {float: right;
+width: 300px;
+	margin-right: 90px;
+}
+
+
+.profexperience {font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top:30px;
+	margin-bottom: 100px;
+	
+
+}
+.comcast{font-size: 20px;}
+.comcast4{font-size: 26px;
+margin-top: 40px;
+}
+
+.contactinfo {text-align: center;
+font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+font-size: 30px;
+}
+
+.linkedin {text-decoration: none;
+}
+
+a:hover{
+	background-color:#CDCDCD;
+text-decoration:underline;
+	padding: 4px;
+
+}
+a:active{text-decoration: underline;
+	background-color:aliceblue;
+}
+
+a:link{
+	text-decoration: none;
+	color:darkblue;
+	
+	
+}
+a:visited{
+	color:#0008AF;}
+
+
+
+
+
+
+
+.pattern1{
+    background-image: repeating-linear-gradient(36deg, rgba(255,255,255, 0.1), rgba(255,255,255, 0.1) 1px, transparent 0px, transparent 2px);
+	background-size: cover;}
+
+
+
+
+
+
+
+
